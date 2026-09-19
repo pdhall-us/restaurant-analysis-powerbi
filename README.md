@@ -42,32 +42,28 @@ Power-BI-Restaurant-Analysis/
 
 ---
 
-## Step 01 — Getting Started
+## Step 01 — Downloading the dataset
 
 ### 🎯 What I Did
 
-*Add the steps you performed here.*
+Downloaded the dataset that is available online for project purposes.
 
-Example:
 
-```text
 1. Downloaded and reviewed the restaurant dataset.
 2. Opened the dataset in Excel.
 3. Explored the available columns and data.
 4. Identified the information that could be useful for analysis.
-```
 
 ### 📚 What I Learned
 
-*Write the concepts you learned while completing this step.*
-
-**Example — Dataset**
+**Dataset**
 
 > A dataset is a collection of related data organized in a structured format that can be used for analysis.
 
-### 💡 Notes
+### 💡 Analysis Notes
 
-*Add any important observations, problems, solutions, or things you want to remember.*
+1. After exploring data I found that it is having a excel file named "Data_CFR" that contains 3 sheets which have information of customer, food, and restaurant. Apart from that it also have order data of jan to april 2024 in separate excel files inside order data folder.
+2. After analysing the data I found out that inside customer table, membership column is having inconsistent values.
 
 ---
 

@@ -63,7 +63,7 @@ Downloaded the dataset that is available online for project purposes.
 ### 💡 Analysis Notes
 
 1. After exploring data I found that it is having a excel file named "Data_CFR" that contains 3 sheets which have information of customer, food, and restaurant. Apart from that it also have order data of jan to april 2024 in separate excel files inside order data folder.
-2. After analysing the data I found out that inside customer table, membership column is having inconsistent values.
+2. After analysing the data I found out that inside customer table, membership column is having inconsistent values. At some place there is just G and R instead of Gold and Regular.
 
 ---
 
@@ -71,15 +71,15 @@ Downloaded the dataset that is available online for project purposes.
 
 ### 🎯 What I Did
 
-*To be added.*
+1. Loaded **Data_CFR** into PowerBI power query to perform transformation.
+2. Changed the identified inconistent values through replace.
+3. Loaded into PowerBi
 
 ### 📚 What I Learned
 
-*To be added.*
+**Power Query**
 
-### 💡 Notes
-
-*To be added.*
+> It is a built-in ETL tool that helps in transforming the data, not only that it also records the transformation steps which is very helpful in automating the reports.
 
 ---
 

@@ -71,15 +71,19 @@ Downloaded the dataset that is available online for project purposes.
 
 ### 🎯 What I Did
 
-1. Loaded **Data_CFR** into PowerBI power query to perform transformation.
+1. Loaded **Data_CFR** into Power BI power query to perform transformation.
 2. Changed the identified inconistent values through replace.
-3. Loaded into PowerBi
+3. Loaded **Data_CFR** into PowerBi.
+4. Then appended "Order Data" folder in power query.
+5. Loaded that also in Power BI.
 
 ### 📚 What I Learned
 
 **Power Query**
-
 > It is a built-in ETL tool that helps in transforming the data, not only that it also records the transformation steps which is very helpful in automating the reports.
+
+**Append**
+> Append is combining two or more table on top of each other.
 
 ---
 

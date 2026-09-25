@@ -84,6 +84,26 @@ Downloaded the dataset that is available online for project purposes.
 
 **Append**
 > Append is combining two or more table on top of each other.
+---
+
+## Step 02 — Data Modeling
+
+### 🎯 What I Did
+
+1. Analyzed the relation between the tables.
+2. Created relationship between food details table and order data table.
+
+### 📚 What I Learned
+
+**Dimension Table**
+> It contains unique values. Suppose cutomer details, restaurant details, etc.
+
+**Fact Table**
+> It contains the main business event or transaction. It can have the repeated unique values of the dimension table. Suppose cutomer id can be repeated.
+
+**Cardinality**
+> It is nothing but the relationship type between the tables. it can be one-to-one, one-to-*, and so on.
+- For example, one-to-many: from dimension table customer id will be unique and will occur only once, on the other hand in fact table a customer can order multiple times, so it can occur more than one.
 
 ---
 
